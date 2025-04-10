@@ -2,6 +2,8 @@
 
 This project analyzes customer data, transaction trends, and new customer insights to inform marketing strategies, business expansion, and product offerings. The analysis provides actionable insights based on data from various customer demographics, transaction behaviors, and market segments.
 
+<img src="Screenshot 2024-08-12 130517.png" alt="My Photo" width="1000"/>
+
 ## 🔍 Dataset Overview
 
 The dataset consists of the following key components:
@@ -69,7 +71,7 @@ This analysis highlights how data-driven strategies can significantly improve cu
 
 Leveraging data analytics can provide businesses with the insights they need to make informed decisions and optimize their marketing, sales, and expansion strategies. The key findings and recommendations presented here can help guide businesses toward better targeting, more effective strategies, and overall success.
 
-<img src="Screenshot 2024-08-12 130517.png" alt="My Photo" width="700"/>
+
 
 ## Acknowledgements
 - Thanks to all the contributors and data sources that made this analysis possible.
